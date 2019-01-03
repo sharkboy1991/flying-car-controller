@@ -1,2 +1,3 @@
 # flying-car-controller
-Unity simple flying car controller v1.0
+Unity version 2019.1.0a12
+Simple flying car controller v1.0
